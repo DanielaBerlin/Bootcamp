@@ -17,8 +17,8 @@
 PROJECT VIDEO GAME: https://danielaberlin.github.io/ProjectGame/
 
 *WEEK 4
-*[LAB | #Promise me a dinner](https://github.com/DanielaBerlin/lab-es6-promises)
-*[LAB | Express basic website](https://github.com/DanielaBerlin/lab-express-basic-site)
-*[LAB | Express IronBeers](https://github.com/DanielaBerlin/lab-ironbeers)
-*[LAB MongoDB | Compass CRUD](https://github.com/DanielaBerlin/lab-advance-querying-mongo)
-*[MongoDB | Mongoose Recipes](https://github.com/DanielaBerlin/lab-mongoose-recipes)
+* [LAB | #Promise me a dinner](https://github.com/DanielaBerlin/lab-es6-promises)
+* [LAB | Express basic website](https://github.com/DanielaBerlin/lab-express-basic-site)
+* [LAB | Express IronBeers](https://github.com/DanielaBerlin/lab-ironbeers)
+* [LAB MongoDB | Compass CRUD](https://github.com/DanielaBerlin/lab-advance-querying-mongo)
+* [MongoDB | Mongoose Recipes](https://github.com/DanielaBerlin/lab-mongoose-recipes)
