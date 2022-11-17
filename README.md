@@ -22,3 +22,9 @@ PROJECT VIDEO GAME: https://danielaberlin.github.io/ProjectGame/
 * [LAB | Express IronBeers](https://github.com/DanielaBerlin/lab-ironbeers)
 * [LAB MongoDB | Compass CRUD](https://github.com/DanielaBerlin/lab-advance-querying-mongo)
 * [MongoDB | Mongoose Recipes](https://github.com/DanielaBerlin/lab-mongoose-recipes)
+
+*WEEK 5
+* [LAB | Express Spotify Searcher](https://github.com/DanielaBerlin/lab-express-spotify)
+* [LAB | Movies and celebrities](https://github.com/DanielaBerlin/lab-movies-celebrities)
+* [LAB | Basic Auth](https://github.com/DanielaBerlin/lab-express-basic-auth)
+* [LAB | Axios CRUD exercise](https://github.com/DanielaBerlin/lab-ajax-crud-characters)
