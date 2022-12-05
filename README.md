@@ -28,3 +28,13 @@ PROJECT VIDEO GAME: https://danielaberlin.github.io/ProjectGame/
 * [LAB | Movies and celebrities](https://github.com/DanielaBerlin/lab-movies-celebrities)
 * [LAB | Basic Auth](https://github.com/DanielaBerlin/lab-express-basic-auth)
 * [LAB | Axios CRUD exercise](https://github.com/DanielaBerlin/lab-ajax-crud-characters)
+
+*WEEK 6
+SECOND PROJECT: https://victorious-shawl-hare.cyclic.app/
+
+*WEEK 7
+* [LAB | Hello React](https://github.com/DanielaBerlin/lab-hello-react)
+* [LAB | React Tweets](https://github.com/DanielaBerlin/lab-react-tweets)
+* [LAB | React IronContacts](https://github.com/DanielaBerlin/lab-react-ironcontacts)
+* [LAB | Axios React IronNutrition](https://github.com/DanielaBerlin/lab-react-ironnutrition)
+* [LAB | React IronBeers](https://github.com/DanielaBerlin/lab-react-ironbeers)
